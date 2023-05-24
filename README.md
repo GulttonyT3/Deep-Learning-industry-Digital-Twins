@@ -40,7 +40,10 @@
     * 7.2 [Parameter Management](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch07_Deep_Learning_Computation/Parameter_Management.ipynb)
     * 7.3 [Deferred Initialization](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch07_Deep_Learning_Computation/Deferred_Initialization.ipynb)
     * 7.4 [Custom Layers](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch07_Deep_Learning_Computation/Custom_Layers.ipynb)
-    * 7.5 [File I/O](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch07_Deep_Learning_Computation/File_I_O.ipynb)
+    * 7.5 [File I/O
+ 
+ 
+ ](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch07_Deep_Learning_Computation/File_I_O.ipynb)
     * 7.6 [GPUs](https://github.com/dsgiitr/d2l-pytorch/blob/master/Ch07_Deep_Learning_Computation/GPUs.ipynb)
 
   * **Ch08 卷积神经网络**
@@ -270,7 +273,7 @@
   
   1.  **[深度学习增强的数字孪生，用于可视化焊缝生长监测和渗透控制.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906915/default.pdf)
 
- 1.  **[가상현실에서효과적인3차원영상연출을위한연구언리얼엔진의영상제작을이용한인터렉티브쇼트중심으로.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906958/3.pdf)
+
   
 1.  **[Combustion machine learning Principles, progress and prospects.pdf]**[paper](https://github.com/jxustvr/Deep-Learning-industry-Digital-Twins/files/9906975/Combustion.machine.learning.Principles.progress.and.prospects.pdf)
  
