@@ -48,7 +48,7 @@
  # 基础知识
  <a name="sjwl"/> 
  
-<p align="center">
+
 ## 章节
 
   * **Ch02安装**
